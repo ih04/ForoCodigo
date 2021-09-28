@@ -1,4 +1,4 @@
-
+//By bilenkos lab
 //generar códigos al azar con 3 posibilidades SIN repetición
 
 import java.util.ArrayList;
