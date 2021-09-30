@@ -1,4 +1,5 @@
 //generar códigos al azar con 3 posibilidades 
+//probando la rama probando
 import java.util.ArrayList;
 import java.util.Random;
 import java.lang.Math;
